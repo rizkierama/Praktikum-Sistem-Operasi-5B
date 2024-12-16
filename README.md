@@ -41,7 +41,7 @@ Repositori ini cocok untuk:
    - Fork repositori ini.
    - Tambahkan file laporan pada folder `pengumpulan/` di modul yang sesuai.
    - Format file laporan harus dalam bentuk `.doc`.
-   - Ajukan Pull Request untuk menyerahkan laporan.
+   - Ajukan Pull Request ke branch setiap pertemuan untuk menyerahkan laporan.
 
 # Lisensi
 Repositori ini dilisensikan di bawah [MIT License](LICENSE).
