@@ -7,16 +7,6 @@ Repositori ini cocok untuk:
 - Referensi tugas dan laporan praktikum.
 - Dokumentasi belajar dan pengembangan proyek terkait Sistem Operasi.
 
-# Struktur Repositori
-
-- `modul-1/` : Folder untuk modul 1, berisi materi dan laporan.
-  - `pengumpulan-1/` : Folder untuk pengumpulan laporan praktikum pertemuan modul 1.
-- `modul-2/` : Folder untuk modul 2, berisi script, laporan, dan dokumentasi hasil eksperimen.
-  - `pengumpulan-2/` : Folder untuk pengumpulan laporan praktikum pertemuan modul 2.
-- `modul-3/` : Folder untuk modul 3, mendalami manajemen proses, sinkronisasi, dan lainnya.
-  - `pengumpulan-3/` : Folder untuk pengumpulan laporan praktikum pertemuan modul 3.
-- `README.md` : Penjelasan umum tentang repositori.
-
 **Catatan:** Struktur repositori akan terus diperbarui seiring dengan penambahan modul untuk setiap pertemuan.
 
 # Cara Menggunakan
